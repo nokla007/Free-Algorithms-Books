@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:0,Somoy TV
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.205/hls/somoy_tv.m3u8
+#EXTINF:24,DBC News
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:22,Chanel i
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/i_Channel.m3u8
+#EXTINF:23,Ekushey tv
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:25,R TV
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:0,NTV
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:30,GTV 1
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.201/hindi/bdgtv.m3u8
+#EXTINF:0,GTV 2
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:25,Star Jolsha
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.204/hls/star_jalsha.m3u8
+#EXTINF:26,Star Sports 2
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:20,Select 1
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:23,Select 2
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.207:8082/sports/ssselect2.m3u8
+#EXTINF:20,Ten 1
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.207:8082/sports/ten1_720.m3u8
