@@ -11,7 +11,7 @@ http://10.16.100.203:8082/bangla/i_Channel.m3u8
 #EXTINF:23,Ekushey tv
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.203:8082/bangla/ekusheytv.m3u8
-#EXTINF:25,R TV
+#EXTINF:25,RTV
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:0,NTV
@@ -23,9 +23,27 @@ http://10.16.100.201/hindi/bdgtv.m3u8
 #EXTINF:0,GTV 2
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.203:8082/bangla/gtv.m3u8
+
 #EXTINF:25,Star Jolsha
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.204/hls/star_jalsha.m3u8
+#EXTINF:12,Star Jalsha HD
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/chunklist_b1228000.m3u8
+#EXTINF:12,Jalsha Movies HD
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:jalsha_movies_all/chunklist_b1228000.m3u8
+
+#EXTINF:12,Sony Max
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sony_max_all/chunklist_b1228000.m3u8
+#EXTINF:11,Sony
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sony_all/chunklist_b1228000.m3u8
+#EXTINF:12,Colors
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:colors_hd_all/chunklist_b1228000.m3u8
+
 #EXTINF:26,Star Sports 2
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.207:8082/sports/starsports2.m3u8
@@ -38,3 +56,44 @@ http://10.16.100.207:8082/sports/ssselect2.m3u8
 #EXTINF:20,Ten 1
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:12,Ten 1 HD
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sony_ten_1_all/chunklist_b8523798.m3u8
+#EXTINF:12,Ten 2 HD
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sony_ten_2_all/chunklist_b8612295.m3u8
+#EXTINF:0,Sony Six
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sony_six_all/chunklist_b5983852.m3u8
+
+#EXTINF:12,Duronto
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:duronto_tv_all/chunklist_b2128000.m3u8
+#EXTINF:12,Nick
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:nickelodeon_all/chunklist_b1228000.m3u8
+#EXTINF:13,CN
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:cartoon_network_all/chunklist_b2128000.m3u8
+#EXTINF:11,POGO
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:pogo_all/chunklist_b1228000.m3u8
+#EXTINF:11,Sony Yay
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sony_yay_all/chunklist_b1228000.m3u8
+#EXTINF:12,Sonic
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sonic_all/chunklist_b1228000.m3u8
+
+#EXTINF:12,Sony PIX
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:sony_pix_all/chunklist_b1228000.m3u8
+#EXTINF:11,HBO
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:hbo_all/chunklist_b2670202.m3u8
+#EXTINF:12,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:discovery_turbo_all/chunklist_b2168086.m3u8
+#EXTINF:12,Nat Geo
+#EXTVLCOPT:network-caching=1000
+https://ott.bingebd.com/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
