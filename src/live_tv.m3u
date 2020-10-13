@@ -23,7 +23,6 @@ http://10.16.100.201/hindi/bdgtv.m3u8
 #EXTINF:0,GTV 2
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.203:8082/bangla/gtv.m3u8
-
 #EXTINF:25,Star Jolsha
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.204/hls/star_jalsha.m3u8
@@ -33,7 +32,6 @@ https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/chunklist_b1228000.m3u8
 #EXTINF:12,Jalsha Movies HD
 #EXTVLCOPT:network-caching=1000
 https://ott.bingebd.com/live/ngrp:jalsha_movies_all/chunklist_b1228000.m3u8
-
 #EXTINF:12,Sony Max
 #EXTVLCOPT:network-caching=1000
 https://ott.bingebd.com/live/ngrp:sony_max_all/chunklist_b1228000.m3u8
@@ -43,7 +41,6 @@ https://ott.bingebd.com/live/ngrp:sony_all/chunklist_b1228000.m3u8
 #EXTINF:12,Colors
 #EXTVLCOPT:network-caching=1000
 https://ott.bingebd.com/live/ngrp:colors_hd_all/chunklist_b1228000.m3u8
-
 #EXTINF:26,Star Sports 2
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.207:8082/sports/starsports2.m3u8
@@ -65,7 +62,6 @@ https://ott.bingebd.com/live/ngrp:sony_ten_2_all/chunklist_b8612295.m3u8
 #EXTINF:0,Sony Six
 #EXTVLCOPT:network-caching=1000
 https://ott.bingebd.com/live/ngrp:sony_six_all/chunklist_b5983852.m3u8
-
 #EXTINF:12,Duronto
 #EXTVLCOPT:network-caching=1000
 https://ott.bingebd.com/live/ngrp:duronto_tv_all/chunklist_b2128000.m3u8
@@ -84,7 +80,6 @@ https://ott.bingebd.com/live/ngrp:sony_yay_all/chunklist_b1228000.m3u8
 #EXTINF:12,Sonic
 #EXTVLCOPT:network-caching=1000
 https://ott.bingebd.com/live/ngrp:sonic_all/chunklist_b1228000.m3u8
-
 #EXTINF:12,Sony PIX
 #EXTVLCOPT:network-caching=1000
 https://ott.bingebd.com/live/ngrp:sony_pix_all/chunklist_b1228000.m3u8
