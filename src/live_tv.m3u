@@ -1,31 +1,25 @@
 #EXTM3U
 #EXTINF:0,Somoy TV
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.205/hls/somoy_tv.m3u8
+http://tv.ebox.live:8081/thunderbd/17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDY6MTMgQU0maGFzaF92YWx1ZT02aGh0RC9nWmJOaWUxSGE5S0dwb3Z3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:24,Jamuna
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDg6MjAgQU0maGFzaF92YWx1ZT1HUnREL3htcmZ0ejZ6amd5anYvZTZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:24,Masranga
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/51/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDk6MDQgQU0maGFzaF92YWx1ZT16TUdWckxXSFh5cnNTZ0dVVExTZkR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:24,Independent
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDk6NDYgQU0maGFzaF92YWx1ZT1GMFI4cWNhbldqanlTd1NnRG4wdDB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:24,DBC News
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
-#EXTINF:22,Chanel i
+http://tv.ebox.live:8081/thunderbd/7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDY6MzIgQU0maGFzaF92YWx1ZT1SRXpwbG5QSEZLUW1DZ3liL2VLT1JnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:30,GTV
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/i_Channel.m3u8
-#EXTINF:23,Ekushey tv
-#EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
-#EXTINF:25,RTV
-#EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/TV_R.m3u8
-#EXTINF:0,NTV
-#EXTVLCOPT:network-caching=1000
-http://10.16.100.205/hls/ntv_b_720.m3u8
-#EXTINF:30,GTV 1
-#EXTVLCOPT:network-caching=1000
-http://10.16.100.201/hindi/bdgtv.m3u8
-#EXTINF:0,GTV 2
-#EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDc6MjggQU0maGFzaF92YWx1ZT04M2JjTXZYd0RrYUdjL3A5aW9KSUdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:25,Star Jolsha
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.204/hls/star_jalsha.m3u8
+http://tv.ebox.live:8081/thunderbd/30/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDc6NTIgQU0maGFzaF92YWx1ZT1FdVVrMEdVQnQwUXNCUXNtY3BoL1FRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:26,Star Sports 2
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.207:8082/sports/starsports2.m3u8
@@ -80,3 +74,22 @@ https://ott.bingebd.com/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
 #EXTINF:12,PTV
 #EXTVLCOPT:network-caching=1000
 http://tv.ebox.live:8081/thunderbd/73/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjIgNTo0OToyNSBQTSZoYXNoX3ZhbHVlPXRiTzNZMy80QklKUkl4cFlLVVFCMkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:12,Star 1
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDQ6MTAgQU0maGFzaF92YWx1ZT1oMitEeFVaSEtXZWQvOG9xRXBPL25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:12,Select 1
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/27/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDI6NDIgQU0maGFzaF92YWx1ZT1pZGd5VHh6VVgya294MlNWaEV4YTBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:12,Select 2
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/28/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDM6MTAgQU0maGFzaF92YWx1ZT1QMkpwcnpmdTdFNmZzUTBKZm5KeHBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:12,Ten 1
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/20/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDM6MzQgQU0maGFzaF92YWx1ZT1MQ3dLLzhwU2tUUUhVL21BRVVTOWxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:12,Ten 2
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/21/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDM6NDUgQU0maGFzaF92YWx1ZT1oRnZNTUx4VElVL1l1a29zd1p5SldBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:12,Ten 3
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live:8081/thunderbd/22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjIgMTA6NDM6NTYgQU0maGFzaF92YWx1ZT12U201eUFDaldKZitPVjBwUVdvZWpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
