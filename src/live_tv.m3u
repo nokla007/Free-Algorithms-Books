@@ -1,19 +1,28 @@
 #EXTM3U
 #EXTINF:24,T sports
 #EXTVLCOPT:network-caching=1000
-http://tv.ebox.live:8081/thunderbd/102/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIyIDEwOjIwOjA2IEFNJmhhc2hfdmFsdWU9ZjZTaHB2RzcrUUUvS1V5TkwzY2VVZz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://30.30.30.30/live/skyfeed2001/index.m3u8
 #EXTINF:30,GTV
 #EXTVLCOPT:network-caching=1000
-http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIyIDEwOjE5OjI0IEFNJmhhc2hfdmFsdWU9NEFEQjBEeXlUWkZhZkZsR0NraEI0dz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://30.30.30.30/live/skyfeed1005/index.m3u8
 #EXTINF:26,Star Sports 1
 #EXTVLCOPT:network-caching=1000
-http://tv.ebox.live:8081/thunderbd/25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIyIDEwOjIxOjA2IEFNJmhhc2hfdmFsdWU9VWxHQlo0TVZaUlhyV09ZN3ZtRXRCQT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://30.30.30.30/live/skyfeed1008/index.m3u8
 #EXTINF:20,Select 1
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
+http://30.30.30.30/live/skyfeed1009/index.m3u8
 #EXTINF:23,Select 2
 #EXTVLCOPT:network-caching=1000
-http://tv.ebox.live:8081/thunderbd/28/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIyIDEwOjIxOjQ4IEFNJmhhc2hfdmFsdWU9MnJNMnMrTzYvNkIrRmErZkxBTHQyUT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://30.30.30.30/live/skyfeed1010/index.m3u8
+#EXTINF:26,Star Sports HD 1
+#EXTVLCOPT:network-caching=1000
+http://30.30.30.30/live/skyfeed1011/index.m3u8
+#EXTINF:26,Star Sports HD 2
+#EXTVLCOPT:network-caching=1000
+http://30.30.30.30/live/skyfeed1012/index.m3u8
+#EXTINF:26,PTV
+#EXTVLCOPT:network-caching=1000
+http://30.30.30.30/live/skyfeed2003/index.m3u8
 #EXTINF:20,Ten 1
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.207:8082/sports/ten1_720.m3u8
