@@ -26,4 +26,6 @@ http://30.30.30.30/live/skyfeed2003/index.m3u8
 #EXTINF:20,Ten 1
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.207:8082/sports/ten1_720.m3u8
-
+#EXTINF:20,Sports 18
+#EXTVLCOPT:network-caching=1000
+http://10.98.99.150:8081/hls/1.m3u8
