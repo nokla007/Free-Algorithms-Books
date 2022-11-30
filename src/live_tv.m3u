@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:24,Toffee Live
+#EXTINF:24,Toffee Live 1
 #EXTVLCOPT:network-caching=1000
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:24,Toffee Live
+#EXTINF:24,Toffee Live 2
 #EXTVLCOPT:network-caching=1000
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+#EXTINF:24,Toffee Live 1 480p
+#EXTVLCOPT:network-caching=1000
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+#EXTINF:24,Toffee Live 2 480p
+#EXTVLCOPT:network-caching=1000
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
 #EXTINF:24,T sports
 #EXTVLCOPT:network-caching=1000
 http://30.30.30.30/live/skyfeed2001/index.m3u8
