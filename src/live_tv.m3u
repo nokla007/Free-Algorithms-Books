@@ -8,6 +8,16 @@ http://bigtv.live:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=8d0777c4ce6
 #EXTINF:24,SS Select 2
 #EXTVLCOPT:network-caching=1000
 http://bigtv.live:8080/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=028aa677a4bd68bd49058eba3a996707bfc8862e-76004a287aa47aecb5aaefaac3fddb54-1693502411-1693491611
+#EXTINF:24,SS HD 1
+#EXTVLCOPT:network-caching=1000
+http://bigtv.live:8080/StarSports1HD/tracks-v1a1/mono.m3u8?token=6d3d1c08e29b64131785bbd8ac52447574e7557b-fe072d44ccd9292107f20c3bcc9340d4-1693505464-1693494664
+#EXTINF:24,SS HD 2
+#EXTVLCOPT:network-caching=1000
+http://bigtv.live:8080/StarSports2HD/tracks-v1a1/mono.m3u8?token=00b8ac02deb88cf33fe41d5e8d23eecfd2980c25-c33a818cc55ab6672bbcc188b56e975b-1693505410-1693494610
+
+
+
+
 #EXTINF:24,Toffee Live 1
 #EXTVLCOPT:network-caching=1000
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
