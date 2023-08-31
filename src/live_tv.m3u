@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:24,Gazi Tv
+#EXTVLCOPT:network-caching=1000
+http://bigtv.live:8080/AsiaCup2023/tracks-v1a1/mono.m3u8?token=b1a45185fb478f5625dbaebc9ba02810a4652f50-242e4e7d3a5f6281cf92eccd374de985-1693502287-1693491487
+#EXTINF:24,SS Select 1
+#EXTVLCOPT:network-caching=1000
+http://bigtv.live:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=8d0777c4ce6deb39289d0fe07d755400c7c76192-8c8fb896e248d7c3ae165756c690d3e1-1693502482-1693491682
+#EXTINF:24,SS Select 2
+#EXTVLCOPT:network-caching=1000
+http://bigtv.live:8080/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=028aa677a4bd68bd49058eba3a996707bfc8862e-76004a287aa47aecb5aaefaac3fddb54-1693502411-1693491611
 #EXTINF:24,Toffee Live 1
 #EXTVLCOPT:network-caching=1000
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
